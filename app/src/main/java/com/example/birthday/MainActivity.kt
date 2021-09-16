@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
     }
     fun createBirthdaycard(view: View){
 
-//        val name = edittext1.editableText.toString()
+
         val name = edittext1.editableText.toString()
 
         val intent=Intent(this,Activity2::class.java)
