@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         edittext1=findViewById(R.id.edittext1)
+
     }
     fun createBirthdaycard(view: View){
 
